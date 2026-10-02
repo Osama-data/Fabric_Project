@@ -1,0 +1,9 @@
+StoreID,StoreName,City,State,RegionID
+1,Bharat Retail Delhi,Delhi,Delhi,1
+2,Bharat Retail Jaipur,Jaipur,Rajasthan,1
+3,Bharat Retail Bengaluru,Bengaluru,Karnataka,2
+4,Bharat Retail Chennai,Chennai,Tamil Nadu,2
+5,Bharat Retail Kolkata,Kolkata,West Bengal,3
+6,Bharat Retail Bhubaneswar,Bhubaneswar,Odisha,3
+7,Bharat Retail Mumbai,Mumbai,Maharashtra,4
+8,Bharat Retail Pune,Pune,Maharashtra,4

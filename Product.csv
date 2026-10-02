@@ -1,0 +1,25 @@
+ProductID,ProductName,Category,ListPriceINR,UnitCostINR
+1,Electronics Item 01,Electronics,2875.00,1753.75
+2,Electronics Item 02,Electronics,3250.00,1982.50
+3,Electronics Item 03,Electronics,3625.00,2211.25
+4,Electronics Item 04,Electronics,4000.00,2440.00
+5,Electronics Item 05,Electronics,4375.00,2668.75
+6,Electronics Item 06,Electronics,2500.00,1525.00
+7,Home Item 07,Home,1380.00,841.80
+8,Home Item 08,Home,1560.00,951.60
+9,Home Item 09,Home,1740.00,1061.40
+10,Home Item 10,Home,1920.00,1171.20
+11,Home Item 11,Home,2100.00,1281.00
+12,Home Item 12,Home,1200.00,732.00
+13,Apparel Item 13,Apparel,920.00,561.20
+14,Apparel Item 14,Apparel,1040.00,634.40
+15,Apparel Item 15,Apparel,1160.00,707.60
+16,Apparel Item 16,Apparel,1280.00,780.80
+17,Apparel Item 17,Apparel,1400.00,854.00
+18,Apparel Item 18,Apparel,800.00,488.00
+19,Personal Care Item 19,Personal Care,460.00,280.60
+20,Personal Care Item 20,Personal Care,520.00,317.20
+21,Personal Care Item 21,Personal Care,580.00,353.80
+22,Personal Care Item 22,Personal Care,640.00,390.40
+23,Personal Care Item 23,Personal Care,700.00,427.00
+24,Personal Care Item 24,Personal Care,400.00,244.00
